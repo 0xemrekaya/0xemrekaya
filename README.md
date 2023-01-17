@@ -5,9 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaya035&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" width="50" height="50">  
-<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="50" height="50">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50">
+<img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" width="50" height="50">  <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="50" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50">
+
+
 
 <!--
 **emrekaya035/emrekaya035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
