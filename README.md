@@ -1,6 +1,6 @@
 ### Hi there, I'm Emre KAYA 👋
  
- - 🌱 I’m currently learning Flutter, Kotlin, Solidity etc..
+ - 🌱 I’m currently learning Flutter, Kotlin, Solidity, Swift etc..
  - 📫 How to reach me: emrekaya75@outlook.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaya035&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
