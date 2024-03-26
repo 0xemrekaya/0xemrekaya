@@ -3,7 +3,7 @@
 I am currently studying about blockchain technology (smart contract) and I develop mobile application with Flutter (Dart), Kotlin.
  - 📫 How to reach me: emrekaya75@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaya035&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xemrekaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
