@@ -1,7 +1,7 @@
 ### Hi there, I'm Emre KAYA 👋
- 
-I am currently studying about blockchain technology (smart contract) and I develop mobile application with Flutter (Dart), Kotlin.
- - 📫 How to reach me: emrekaya75@outlook.com
+
+I am a software engineer who has developed many projects in multiple areas such as mobile development (Flutter, Kotlin) , backend (Go, Node.js, Python), blockhain (Solidity).
+- 📫 How to reach me: emrekaya75@outlook.com
 
 ![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xemrekaya&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
